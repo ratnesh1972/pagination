@@ -1,3 +1,3 @@
 # pagination
 
-A simple pagination elements implemented using javascript. 
+A simple pagination component implemented using javascript. 
